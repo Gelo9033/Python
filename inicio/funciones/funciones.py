@@ -27,11 +27,13 @@
 
 #ITERAR SOBRE UNA LISTA
 
-nombres=[]
-rango= int(input("¿Cuántos nombres desea ingresar? "))
-for i in range(rango):
-    nombres.append(input("Ingrese el nombre: "))
-print("Los nombres ingresados son: ")
-for nombre in nombres:
-    print(nombre)   
-    
+# nombres=[]
+# rango= int(input("¿Cuántos nombres desea ingresar? "))
+# for i in range(rango):
+#     nombres.append(input("Ingrese el nombre: "))
+# print("Los nombres ingresados son: ")
+# for nombre in nombres:
+#     print(nombre)   
+# A:
+
+
